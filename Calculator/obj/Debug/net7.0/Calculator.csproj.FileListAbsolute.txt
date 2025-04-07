@@ -1,0 +1,15 @@
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Calculator/bin/Debug/net7.0/Calculator
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Calculator/obj/Debug/net7.0/ref/Calculator.dll
