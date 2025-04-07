@@ -1,3 +1,0 @@
-apple:яблоко
-window:окно
-hello:привет
