@@ -1,0 +1,15 @@
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Casino/bin/Debug/net7.0/Casino
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Casino/bin/Debug/net7.0/Casino.deps.json
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Casino/bin/Debug/net7.0/Casino.runtimeconfig.json
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Casino/bin/Debug/net7.0/Casino.dll
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Casino/bin/Debug/net7.0/Casino.pdb
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Casino/obj/Debug/net7.0/Casino.csproj.AssemblyReference.cache
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Casino/obj/Debug/net7.0/Casino.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Casino/obj/Debug/net7.0/Casino.AssemblyInfoInputs.cache
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Casino/obj/Debug/net7.0/Casino.AssemblyInfo.cs
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Casino/obj/Debug/net7.0/Casino.csproj.CoreCompileInputs.cache
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Casino/obj/Debug/net7.0/Casino.dll
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Casino/obj/Debug/net7.0/refint/Casino.dll
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Casino/obj/Debug/net7.0/Casino.pdb
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Casino/obj/Debug/net7.0/Casino.genruntimeconfig.cache
+/Users/vadimpatrushev/Documents/Development/TL_Practice/Casino/obj/Debug/net7.0/ref/Casino.dll
