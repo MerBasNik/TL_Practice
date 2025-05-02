@@ -5,7 +5,7 @@ public class Dwarves :  IRace
     public string Name => "Dwarves";
     public int Damage => 10;
 
-    public int Health => 90;
+    public int Health => 120;
 
     public int Armor => 25;
 }

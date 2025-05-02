@@ -44,16 +44,13 @@ public class Fighter : IFighter
         return damage;
     }
 
-    public List<string> GetCharacters()
+    public void PrintCharacters()
     {
-        List<string> characters = new List<string>
-        {
-            _race.Name,
-            _fighterClass.Name,
-            _armor.Name,
-            _weapon.Name,
-        };
-        return characters;
+        Console.WriteLine($"Имя: {_name},\n" +
+                          $"раса: {_race.Name},\n" +
+                          $"класс: {_fighterClass.Name},\n" +
+                          $"защита: {_armor.Name},\n" +
+                          $"оружие: {_weapon.Name}.\n");
     }
     public int TakeDamage(int damage)
     {

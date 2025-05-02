@@ -10,7 +10,7 @@ public class FighterFactory
 {
     const string unexpectedInput = "Неверный ввод данных. Попробуй ещё раз";
 
-    public static IFighter CreateFighter()
+    public static IFighter FighterBuilderWizard()
     {
         Console.WriteLine("СОЗДАНИЕ БОЙЦА");
         Console.Write("введите имя вашего боца: ");
@@ -197,54 +197,5 @@ public class FighterFactory
         }
 
         return weapon;
-    }
-
-    public static void GetFighters(List<IFighter> fighters)
-    {
-        if (fighters == null || fighters.Count == 0)
-        {
-            Console.WriteLine("Бойцов пока нет");
-        }
-        else
-        {
-            int counter = 1;
-
-            foreach (IFighter fighter in fighters)
-            {
-                var fighterCharacteristic = fighter.GetCharacters();
-                Console.WriteLine($"{counter++}. Имя: {fighter.Name}, " +
-                                  $"раса: {fighterCharacteristic[0]}, " +
-                                  $"класс: {fighterCharacteristic[1]}, " +
-                                  $"защита: {fighterCharacteristic[2]}, " +
-                                  $"оружие: {fighterCharacteristic[3]}");
-            }
-        }
-    }
-
-    public static List<IFighter> ChooseFighter(List<IFighter> fighters)
-    {
-        Console.Write("Введите индекс первого бойца: ");
-        bool firstFighter = int.TryParse(Console.ReadLine(), out int firstFighterParsed);
-        Console.Write("Введите индекс второго бойца: ");
-        bool secondFighter = int.TryParse(Console.ReadLine(), out int secondFighterParsed);
-
-        if (firstFighter && secondFighter)
-        {
-            if (fighters == null || fighters.Count == 0 || !(firstFighterParsed - 1 < fighters.Count) ||
-                !(secondFighterParsed - 1 < fighters.Count))
-            {
-                Console.WriteLine("Существующих бойцов пока нет");
-                return null;
-            }
-            else
-            {
-                return new List<IFighter> { fighters[firstFighterParsed - 1], fighters[secondFighterParsed - 1] };
-            }
-        }
-        else
-        {
-            Console.WriteLine("Некорректный ввод");
-            return null;
-        }
     }
 }

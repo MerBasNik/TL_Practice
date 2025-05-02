@@ -6,7 +6,7 @@ namespace Fighters.Models.Fighters
     public interface IFighter
     {
         string Name { get; }
-        public List<string> GetCharacters();
+        public void PrintCharacters();
         public int GetMaxHealth();
         public int GetMaxArmor();
         public int GetCurrentHealth();
